@@ -2,7 +2,7 @@
 Welcome to my portfolio! 
 
 ## About Me
-Hi, I'm Jordan Davis, a Project Manager with design expertise in Figma, Adobe XD, Framer and Webflow. I am passionate about creating impactful solutions through engaging design.
+Hi, I'm Jordan Davis, a Product Manager with design expertise in Figma, Adobe XD, Framer and Webflow. I am passionate about creating impactful solutions through engaging design.
 
 ## Skills
 - **Design:** User Experience, Visual Design, Prototyping
